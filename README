@@ -1,4 +1,4 @@
 Proof of concept for a client side spell checking solution for ExtJS.
 
-This uses the Typo.js spell checking library and allows spell checking to be for an Ext text component.
+This uses the Typo.js spell checking library and allows spell checking to be used for an ExtJS text component.
 See https://github.com/cfinke/Typo.js for more information about the Typo.js library.
